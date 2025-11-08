@@ -116,4 +116,4 @@ Platform	Description
 👤 Amit Yadav
 📧 amityadav7206787698@gmail.com
 📞 +91 72067 87699
-🌎 Deployment URL: Coming soon
+🌎 Deployment URL: https://calender-component-2qke.vercel.app/
